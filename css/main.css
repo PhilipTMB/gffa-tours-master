@@ -6,7 +6,7 @@
 
 body{
   font-family: 'Lato';
-  background-color: #009900;
+  background-color: #ffffff;
 }
 hr {
   padding-top: 1.5em;
@@ -16,31 +16,31 @@ footer {
   margin: 1em 0 5em;
 }
 h1 {
-	color: lime;
+	color:#00b300
 }
 h2 {
-	color: aqua;
+	color: #000000;
 }
 h3, h2, h1, h4, h5, h6 {
 	text-align: center;
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Arial', cursive;
 	font-size: 30px
 }
 p {
-	color: aqua;
-	font-family: 'Permanent Marker', Arial;
-	font-size: 30px;
+	color: #000000;
+	font-family: 'Arial', Arial;
+	font-size: 25px;
 	text-align: center;
 }
 h3 a {
-	color: #0000CC;
+	color: #00cc66;
 }
 h4 a {
-	color: #FF6666;
+	color: #008040;
 } 
 h5 a {
-	color: #FF0000;
+	color: #000000;
 }
 h6 {
-	color: #0000CC;
+	color: #000000;
 }
